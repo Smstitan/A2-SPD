@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Minesweeper</string>
+    <string name="smiley">😃</string>
+    <string name="mark">💢</string>
+    <string name="bomb">💣</string>
+    <string name="default_count">000</string>
+    <string name="action_settings"> </string>
+</resources>
